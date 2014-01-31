@@ -9,7 +9,7 @@ module Escape
 
     def viewDidLoad
       super
-      ## V´FOR DEBUGGING pretty handy
+      ## FOR DEBUGGING pretty handy
       # self.view.showsDrawCount = true
       # self.view.showsNodeCount = true
       # self.view.showsFPS = true

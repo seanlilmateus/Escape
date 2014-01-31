@@ -8,9 +8,10 @@ module Escape
 
     def viewDidLoad
       self.view.backgroundColor = SKColor.colorWithRed(0.15, green:0.15, blue:0.3, alpha:1.0)
-      self.view.showsDrawCount = true
-      self.view.showsNodeCount = true
-      self.view.showsFPS = true
+      ## FOR DEBUGGING pretty handy
+      # self.view.showsDrawCount = true
+      # self.view.showsNodeCount = true
+      # self.view.showsFPS = true
       loadStartScene
     end
 
