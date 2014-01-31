@@ -15,7 +15,7 @@ Thanks to [Steven Veshkini](https://github.com/StevenVeshkini/) for giving his c
 This code is under __I don't owe you nothing license__ and MIT.
 
 
-![GameOver](ios_game_over_scene?raw=true "iOS Gameover Scene")
-![GameScene](ios_game_scene?raw=true "iOS Game Scene")
-![OSX](osx_game_scene?raw=true "OS X Game Scene")
-![Start](osx_start_scene?raw=true "OS X Start A Game Scene")
+![GameOver](ios_game_over_scene.PNG?raw=true "iOS Gameover Scene" =250x)
+![GameScene](ios_game_scene.PNG?raw=true "iOS Game Scene" =250x)
+![OSX](osx_game_scene.PNG?raw=true "OS X Game Scene" =250x)
+![Start](osx_start_scene.PNG?raw=true "OS X Start A Game Scene" =250x)
